@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "genppt": {
+      "type": "http",
+      "url": "https://genppt.com/mcp"
+    }
+  }
+}

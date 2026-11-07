@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.genppt/mcp",
+  "title": "GenPPT",
+  "description": "Generate AI slide decks and export native PowerPoint (.pptx) and PDF presentations from chat.",
+  "version": "1.0.0",
+  "websiteUrl": "https://genppt.com",
+  "repository": {
+    "url": "https://github.com/Illyism/genppt-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://genppt.com/_static/logo/icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": ["any"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://genppt.com/mcp"
+    }
+  ]
+}

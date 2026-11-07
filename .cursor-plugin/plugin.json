@@ -1,0 +1,13 @@
+{
+  "name": "genppt",
+  "version": "1.0.0",
+  "description": "Generate AI slide decks, pitch decks, and export PowerPoint (.pptx) & PDF presentations in Cursor.",
+  "author": {
+    "name": "GenPPT",
+    "url": "https://genppt.com"
+  },
+  "homepage": "https://genppt.com",
+  "repository": "https://github.com/Illyism/genppt-mcp",
+  "keywords": ["presentations", "powerpoint", "pptx", "pitch-deck", "slides", "mcp"],
+  "logo": "assets/logo.svg"
+}

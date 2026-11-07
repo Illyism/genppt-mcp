@@ -1,0 +1,10 @@
+{
+  "name": "genppt",
+  "version": "1.0.0",
+  "description": "GenPPT MCP server: generate AI slide decks, pitch decks, and PowerPoint (.pptx) & PDF presentations.",
+  "mcpServers": {
+    "genppt": {
+      "httpUrl": "https://genppt.com/mcp"
+    }
+  }
+}

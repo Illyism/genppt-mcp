@@ -1,0 +1,17 @@
+{
+  "name": "genppt-mcp",
+  "description": "The GenPPT MCP server and agent skill for generating AI slide decks, pitch decks, and PowerPoint (.pptx) & PDF presentations.",
+  "owner": {
+    "name": "GenPPT",
+    "url": "https://genppt.com"
+  },
+  "plugins": [
+    {
+      "name": "genppt",
+      "source": "./",
+      "description": "Generate AI slide decks, pitch decks, and export PowerPoint (.pptx) & PDF presentations.",
+      "category": "productivity",
+      "tags": ["presentations", "powerpoint", "pptx", "pitch-deck", "mcp"]
+    }
+  ]
+}
